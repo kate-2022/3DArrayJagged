@@ -22,6 +22,7 @@ public class ThreeD {
 		    	{
 		    		System.out.println( "Please insert students id:  ");
 	    			scan.nextInt();
+	    			topicNumber=1;
 	    			
 		    		for (int k=0; k<students[i][j].length; k++)
 		    		{
